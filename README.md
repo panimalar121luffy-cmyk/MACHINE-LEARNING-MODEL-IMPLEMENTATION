@@ -25,3 +25,19 @@ During my internship, I worked on a Spam Email Classification project using Pyth
 <img width="711" height="278" alt="Image" src="https://github.com/user-attachments/assets/e05a893e-7ad4-4921-9638-dabe48c2d957" />
 
 <img width="1121" height="531" alt="Image" src="https://github.com/user-attachments/assets/4adac4d0-a9cc-4801-a615-ddfa5935239a" />
+
+<img width="989" height="801" alt="Image" src="https://github.com/user-attachments/assets/f18b75f4-3612-4e60-b98c-864c56d62c74" />
+
+<img width="900" height="437" alt="Image" src="https://github.com/user-attachments/assets/e2e7c03e-db9c-4772-9c6a-db51b8a13f5c" />
+
+<img width="630" height="787" alt="Image" src="https://github.com/user-attachments/assets/cf74ee8d-bd25-452c-9407-5fe37e48dde1" />
+
+<img width="860" height="915" alt="Image" src="https://github.com/user-attachments/assets/38ff33c2-781c-43e7-acb0-8311c6a7182d" />
+
+<img width="753" height="782" alt="Image" src="https://github.com/user-attachments/assets/ffc9becb-7f03-4873-8747-7dc4805f80cb" />
+
+<img width="872" height="298" alt="Image" src="https://github.com/user-attachments/assets/6afc229b-30a5-42b2-b5cc-0aef3311ab65" />
+
+<img width="490" height="745" alt="Image" src="https://github.com/user-attachments/assets/b2d63af7-3772-4d04-ab42-f2f789122fb0" />
+*NOTE*:
+SO THESE ARE ALL EACH CELL OUTPUTS TOTALLY I GAVE 12 CELLS KINDLY NOTE THEM EACH ARE EXECUTED IN JUPYTER NOTEBOOK KINDLY CHECK THE FILE BELOW ALL THE SCREENSHOTS 
